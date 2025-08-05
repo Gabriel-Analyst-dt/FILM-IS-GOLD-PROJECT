@@ -19,3 +19,8 @@
 <img src="FILES/bord2.PNG"
 
 <h3><b>Conclution</b></h3>
+<h3> 1. The stakeholders should pick from the top five titles of the movies</h3>
+<h3> 2. The stakeholders should pick from the top five movies based on the domestic gross</h3>
+<h3> 3. The stakeholders should pick from the top five movies based on the worlwide gross </h3>
+<h3> 4. The stakeholders should pick from the top five studios based on the domestic gross</h3>
+<h3> 5. The stakeholders should pick from the top five studios based on the foreign gross</h3>
